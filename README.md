@@ -15,7 +15,7 @@ Python 3
 Módulos separados (calculadora.py e operadores.py)
 
 Como usar
-bashgit clone https://github.com/gabriel24070/calculadora-python
+bashgit clone (https://github.com/gabriel24070/Calculadora.py)
 cd calculadora-python
 python calculadora.py
 Aprendizados aplicados
